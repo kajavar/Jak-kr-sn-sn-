@@ -1,0 +1,7 @@
+
+  <style>
+    h1 {color: red; font-family: arial; font-size: 20pt; text-align: center; background-color: white; text-decoration: underline}
+    h2 {color: red; font-family: arial; font-size: 18pt; text-align: center; background-color: white; font-weight: bold}
+    p {color: black; font-family: times new roman; font-size: 13pt; text-align: justify; background-color: white; line-height: 1.5}
+    i {color: black; font-family: times new roman; font-size: 13pt; font-style: italic; background-color: white}
+    </style>
